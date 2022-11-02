@@ -1,3 +1,6 @@
 .people__cell-subtitle {
-  
+  margin: 0;
+  font-size: 12px;
+  line-height: 1.4;
+  font-weight: 400;
 }

@@ -1,5 +1,8 @@
 .people__subtitle {
-  margin: 50px 0 120px;
+  margin: 0 0 120px 0;
   max-width: 460px;
-  font-size: 36px;
+  font-size: 34px;
+  line-height: 1.2;
+  font-weight: 700;
+
 }
