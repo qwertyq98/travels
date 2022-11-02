@@ -3,13 +3,24 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__header/page__header.css);
 
+@import url(../blocks/contant/__people/content__people.css);
+
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__link-complain/header__link-complain.css);
 
+@import url(../blocks/people/people.css);
+@import url(../blocks/people/__title/people__title.css);
+@import url(../blocks/people/__subtitle/people__subtitle.css);
+@import url(../blocks/people/__table/people__table.css);
+@import url(../blocks/people/__cell/people__cell.css);
+@import url(../blocks/people/__cell-title/people__cell-title.css);
+@import url(../blocks/people/__cell-subtitle/people__cell-subtitle.css);
+
+
 @import url(../blocks/hover-link/hover-link.css);
 
-/* * {
+* {
   outline: 1px solid red;
-} */
+}
