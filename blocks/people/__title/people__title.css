@@ -6,3 +6,11 @@
   line-height: 1.1;
   font-weight: 400;
 }
+
+
+@media screen and (max-width: 570px) {
+  .people__title {
+    margin-bottom: 15px;
+  }
+  
+}

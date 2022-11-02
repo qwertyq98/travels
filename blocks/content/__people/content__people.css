@@ -3,3 +3,18 @@
   padding: 0 70px;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 770px) {
+  .content__people {
+    padding: 0 30px;
+  }
+  
+}
+
+
+@media screen and (max-width: 770px) {
+  .content__people {
+    padding: 0 15px;
+  }
+  
+}

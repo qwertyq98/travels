@@ -6,3 +6,11 @@
   font-weight: 700;
 
 }
+
+@media screen and (max-width: 570px) {
+  .people__subtitle {
+    margin-bottom: 60px;
+    font-size: 28px;
+  }
+  
+}
