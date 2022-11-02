@@ -1,5 +1,5 @@
 .header__links {
   display: grid;
   grid-template-columns: repeat(3, min-content);
-  gap: 18px;
+  gap: 55px;
 }
