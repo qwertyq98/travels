@@ -1,0 +1,8 @@
+.content__intro {
+  padding: 0 140px 0 70px;
+  display: grid;
+  grid-gap: 140px;
+  grid-template-columns: 1.5fr 1fr;
+  box-sizing: border-box;
+  align-items: center;
+}

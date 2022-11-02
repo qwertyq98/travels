@@ -1,0 +1,8 @@
+.intro__image {
+  width: 100%;
+  padding-bottom: 100%;
+  background-size: cover;
+  background-position: center;
+  background-image: url("../../../images/intro-image.jpeg");
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
