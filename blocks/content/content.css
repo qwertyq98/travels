@@ -2,3 +2,10 @@
   display: grid;
   grid-row-gap: 140px;
 }
+
+
+@media screen and (min-width: 1281px) {
+  .content {
+ width: 100vw;
+  }
+}

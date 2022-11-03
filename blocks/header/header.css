@@ -7,3 +7,10 @@
   font-weight: 600;
     
 }
+
+@media screen and (min-width: 1281px) {
+  .header {
+    width: 100vw;
+    
+  }
+}

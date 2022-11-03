@@ -6,15 +6,13 @@
 
 @media screen and (max-width: 770px) {
   .content__people {
-    padding: 0 30px;
-  }
-  
-}
-
-
-@media screen and (max-width: 770px) {
-  .content__people {
     padding: 0 15px;
   }
   
 }
+
+/* @media screen and (min-width: 1281px) {
+  .content__people  {
+    padding: 0 150px;
+  }
+} */

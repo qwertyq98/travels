@@ -11,3 +11,10 @@
        
   }
 }
+
+@media screen and (min-width: 1281px) {
+  .footer__copyright-item {
+    font-size: 18px;
+    line-height: 1.4;
+  }
+}

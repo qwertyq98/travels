@@ -8,3 +8,9 @@
   justify-content: center;
 }
 
+@media screen and (min-width: 1281px) {
+  .footer {
+    width: 100vw;
+    min-height: 15vw;
+  }
+}
