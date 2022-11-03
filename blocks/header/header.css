@@ -5,7 +5,7 @@
   justify-content: space-between;
   font-size: 18px;
   font-weight: 600;
-    
+  max-width: 1300px;
 }
 
 @media screen and (max-width: 770px) {
