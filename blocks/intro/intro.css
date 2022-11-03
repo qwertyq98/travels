@@ -1,8 +1,4 @@
 .intro {
   font-family: 'Inter', Arial, sans-serif;
-  animation: show 3s;
 }
 
-@keyframes show {
-  from {opacity: 0;} to {opacity: 1;}
-}
