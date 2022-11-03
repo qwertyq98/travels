@@ -9,27 +9,10 @@
   transform: scale(1.03);
 }
 
-@media screen and (min-width: 3500px) {
+@media screen and (min-width: 1300px) {
   .place__image {
-    height: 13vw;
+    height: 100%;
   }
 }
 
-@media screen and (min-width: 3000px) {
-  .place__image {
-    height: 20vw;
-  }
-}
-
-@media screen and (min-width: 2100px) {
-  .place__image {
-    height: 35vw;
-  }
-}
-
-@media screen and (max-width: 1100px) {
-  .place__image {
-    height: 70vw;
-  }
-}
 
