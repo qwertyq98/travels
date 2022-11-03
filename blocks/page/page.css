@@ -1,15 +1,7 @@
 .page {
   margin: 0 auto;
-  max-width: 1280px;
   min-width: 280px;
   min-height: 100vh;
   padding-top: 70px;
   font-family: "Inter", Arial, sans-serif;
-}
-
-@media screen and (min-width: 1281px) {
-  .page {
-    margin-left: 0;
-    margin-right: 0;
-  }
 }

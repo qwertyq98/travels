@@ -3,3 +3,10 @@
   grid-template-columns: repeat(3, min-content);
   gap: 55px;
 }
+
+@media screen and (max-width: 770px) {
+  .header__links {
+    gap: 35px;
+  }
+  
+}
