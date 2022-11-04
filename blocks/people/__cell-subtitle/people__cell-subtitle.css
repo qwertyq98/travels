@@ -4,3 +4,9 @@
   line-height: 1.4;
   font-weight: 400;
 }
+
+@media screen and (min-width: 1300px) {
+  .people__cell-subtitle {
+    font-size: 16px;
+  }
+}

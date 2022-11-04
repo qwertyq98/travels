@@ -8,7 +8,7 @@
   box-sizing: border-box;
 }
 
-@media screen and (min-width: 1400px) {
+@media screen and (min-width: 1300px) {
   .intro__title {
     font-size: 42px;
   }
