@@ -7,6 +7,7 @@
   top: 0;
   z-index: 9;
   background-color: white;
+  font-family: 'Inter', Arial, sans-serif;
 }
 
 @media screen and (max-width: 770px) {

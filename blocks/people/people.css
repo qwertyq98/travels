@@ -1,8 +1,10 @@
 .people {
-  max-width: 100%;;
+  max-width: 100%;
+  font-family: 'Inter', Arial, sans-serif;
 }
 
 @media screen and (min-width: 1281px) {
-  .people  {
+  .people {
     margin: 0 auto;
   }
+}

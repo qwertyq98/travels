@@ -9,3 +9,9 @@
 .people__cell-subtitle:hover {
   transform: scale(1.03);
 }
+
+@media screen and (min-width: 1300px) {
+  .people__cell-subtitle {
+    font-size: 16px;
+  }
+}

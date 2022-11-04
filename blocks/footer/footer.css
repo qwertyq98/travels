@@ -6,6 +6,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  font-family: 'Inter', Arial, sans-serif;
 }
 
 @media screen and (min-width: 1281px) {
