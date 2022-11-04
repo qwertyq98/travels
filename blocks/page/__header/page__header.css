@@ -3,3 +3,10 @@
   padding: 0 70px;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 570px) {
+  .page__header {
+    padding: 0 40px;
+    
+}
+}
