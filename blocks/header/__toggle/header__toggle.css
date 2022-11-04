@@ -1,14 +1,15 @@
 .header__toggle {
-  display: none;
+  opacity: 0;
 }
 
-.header__toggle:checked ~ .header__menu {
-  max-height: 500px;
-
-  
-  
-  /*     // Любой элемент, стиль которого вам нужно изменить при открытии меню, идёт здесь с  селектором ~
-  // Стили для открытия навигационного меню, к примеру
-  & ~ .nav {
-  } */
+.header__toggle:checked ~ .header__burger > span {
+  transform: rotate(45deg);
+}
+.header__toggle:checked ~ .header__burger > span::before {
+  top: 0;
+  transform: rotate(0);
+  }
+.header__toggle:checked ~ .header__burger > span::after {
+  top: 0;
+  transform: rotate (90deg);
 }

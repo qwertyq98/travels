@@ -11,14 +11,30 @@
     display: grid;
     grid-template-columns: 1, min-content;
     gap: 30px;
-    padding: 0;
-    position: absolute;
-    left: 70px;
-    top: 60px;
-    transform: translateY(100%);
-    max-height: 0px;
-    overflow: hidden;
+    padding: 80px 0;
+
+    position: fixed;
+    visibility: hidden;
+    top: 0;
+    left: -100px;
+
+    width: 300px;
+    height: 100%;
+
+    margin: 0;
+   
+    list-style: none;
+
+    text-align: center;
+
+    background-color: #eceff1;
+    box-shadow: 1px 0px 6px rgba (0, 0, 0, .2);
   }
+  .header__toggle:checked ~ .header__menu {
+    visibility: visible;
+    left: 0;
+  }
+
 }
 
 
