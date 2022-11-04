@@ -4,9 +4,10 @@
   gap: 55px;
 }
 
+
 @media screen and (max-width: 770px) {
   .header__links {
-    gap: 35px;
-  }
-  
+  grid-template-columns: 1fr;
+  gap: 10px;
+}
 }

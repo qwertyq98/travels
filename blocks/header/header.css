@@ -1,32 +1,11 @@
 .header {
-  align-items: center;
   font-size: 18px;
   font-weight: 600;
   width: 100%;
-  min-height: 70px;
-  position: fixed;
-  top: 35px;
-  z-index: 3;
-  background-color: white;
-  
-
-  /* display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: space-between;
-  align-items: center;
-  font-size: 18px;
-  font-weight: 600;
-  max-width: 1300px;
-  min-height: 70px;
-  position: sticky;
-  top: 0px;
-  z-index: 3;
-  background-color: white; */
 }
-/* 
 @media screen and (max-width: 770px) {
   .header {
-  font-size: 12px;
+  position: relative;
+  
   }
-} */
+}
