@@ -3,11 +3,6 @@
   font-size: 12px;
   line-height: 1.4;
   font-weight: 400;
-  transition: transform 0.3s linear;
-}
-
-.people__cell-subtitle:hover {
-  transform: scale(1.03);
 }
 
 @media screen and (min-width: 1300px) {

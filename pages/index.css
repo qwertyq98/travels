@@ -12,13 +12,6 @@
 @import url(../blocks/header/__menu/header__menu.css);
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/__link/header__link.css);
-@import url(../blocks/header/__toggle/header__toggle.css);
-@import url(../blocks/header/__burger/header__burger.css);
-@import url(../blocks/header/__burger-line/header__burger-line.css);
-@import url(../blocks/header/__burger-line/_first/header__burger-line_first.css);
-@import url(../blocks/header/__burger-line/_second/header__burger-line_second.css);
-@import url(../blocks/header/__burger-line/_third/header__burger-line_third.css);
-@import url(../blocks/header/__burger-line/_fourth/header__burger-line_fourth.css);
 
 @import url(../blocks/people/people.css);
 @import url(../blocks/people/__title/people__title.css);
@@ -28,13 +21,13 @@
 @import url(../blocks/people/__cell-title/people__cell-title.css);
 @import url(../blocks/people/__cell-subtitle/people__cell-subtitle.css);
 
-
 @import url(../blocks/hover-link/hover-link.css);
 
 @import url(../blocks/content/content.css);
 @import url(../blocks/content/__intro/content__intro.css);
 @import url(../blocks/content/__places/content__places.css);
 @import url(../blocks/content/__people/content__people.css);
+@import url(../blocks/content/__people/__people-show/content__people-show.css);
 
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__image/intro__image.css);
@@ -58,3 +51,4 @@
 /* * {
   outline: 1px solid red;
 } */
+
