@@ -4,7 +4,6 @@
   font-size: 34px;
   line-height: 1.2;
   font-weight: 700;
-
 }
 
 @media screen and (min-width: 1300px) {
@@ -18,5 +17,4 @@
     margin-bottom: 60px;
     font-size: 28px;
   }
-
 }

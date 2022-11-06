@@ -4,13 +4,12 @@
   line-height: 1.1;
   font-weight: 700;
   text-transform: uppercase;
-  transition: transform .3s linear;
+  transition: transform 0.3s linear;
 }
 
 .people__cell-title:hover {
   transform: scale(1.03);
 }
-
 
 @media screen and (min-width: 1300px) {
   .people__cell-title {
@@ -22,5 +21,4 @@
   .people__cell-title {
     margin-bottom: 15px;
   }
-
 }

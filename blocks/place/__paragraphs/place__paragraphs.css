@@ -1,7 +1,7 @@
 .place__paragraphs {
   margin: 0;
   padding: 0;
-  transition: transform .3s linear;
+  transition: transform 0.3s linear;
 }
 
 .place__paragraphs:hover {

@@ -2,7 +2,7 @@
   object-fit: cover;
   width: 100%;
   height: 43vw;
-  transition: transform .4s linear;
+  transition: transform 0.4s linear;
 }
 
 .place__image:hover {
@@ -14,5 +14,3 @@
     height: 100%;
   }
 }
-
-

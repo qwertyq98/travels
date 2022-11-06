@@ -4,12 +4,12 @@
   background-size: cover;
   background-position: center;
   background-image: url("../../../images/intro-image.jpeg");
-  transition: transform .3s linear;
+  transition: transform 0.3s linear;
 }
 
 .intro__image:hover {
   transform: scale(1.03);
-  box-shadow: 0 0 16px rgba(0,0,0,0.3);
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
   opacity: 0.8;
 }
 

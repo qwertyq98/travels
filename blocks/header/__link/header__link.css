@@ -1,7 +1,7 @@
 .header__link {
   text-decoration: none;
   color: black;
-  transition: transform .5s linear;
+  transition: transform 0.5s linear;
 }
 
 .header__link:hover {
