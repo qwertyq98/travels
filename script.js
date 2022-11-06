@@ -6,11 +6,10 @@ document.addEventListener('DOMContentLoaded', _ => {
       }
     });
   }
+
   let options = { threshold: [0.5] };
   let observer = new IntersectionObserver(onEntry, options);
-  let people = Array.from(document.getElementsByClassName('content__people'));
-  let places = Array.from(document.getElementsByClassName('place'));
-  for (let elm of people.concat(places)) {
-    observer.observe(elm);
-  }
+  let people = document.getElementsByClassName('content__people')[0];
+
+  observer.observe(people);
 });

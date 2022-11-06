@@ -4,7 +4,6 @@
   grid-gap: 0;
   grid-template-columns: 1fr 1fr;
   box-sizing: border-box;
-  opacity: 0;
 }
 
 @media screen and (min-width: 1300px) {
