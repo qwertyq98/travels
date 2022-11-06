@@ -2,6 +2,7 @@
   margin: 0 auto;
   padding: 0 70px;
   box-sizing: border-box;
+  opacity: 0;
 }
 
 @media screen and (max-width: 770px) {
